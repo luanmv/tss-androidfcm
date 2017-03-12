@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "590629539341",
+    "firebase_url": "https://noticias-251a4.firebaseio.com",
+    "project_id": "noticias-251a4",
+    "storage_bucket": "noticias-251a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590629539341:android:21ae7e1949b9166a",
+        "android_client_info": {
+          "package_name": "com.example.luan.push"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "590629539341-b15cmbmse8kuj2o2ukorbn020k538c3b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtbIJNTgqh1Dnn9jeVVOQUrqjgau0XmRg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
